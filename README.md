@@ -6,7 +6,7 @@
 
 ### ☁️ Cloud & DevOps Learning Engineer | Aspiring SRE & Platform Engineer
 
-*Bridging development and operations by building resilient infrastructure, automating CI/CD pipelines, and mastering cloud-native architectures.*
+*Bridging development and operations by building resilient infrastructure, automating CI/CD pipelines, and mastering cloud-native architectures.* 
 
 <br/>
 
